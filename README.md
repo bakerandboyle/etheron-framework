@@ -2,7 +2,7 @@
 
 **Reproducibility script for 41 zero-parameter predictions from G₂ geometry**
 
-[![](https://zenodo.org/badge/DOI/10.5281/zenodo.1928853.svg)](https://doi.org/10.5281/zenodo.1928853) [DOI: 10.5281/zenodo.1928853](https://doi.org/10.5281/zenodo.1928853)
+[![](https://zenodo.org/badge/DOI/10.5281/zenodo.1928853.svg)](https://doi.org/10.5281/zenodo.1928853) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
