@@ -2,7 +2,7 @@
 
 **Reproducibility script for 41 zero-parameter predictions from G₂ geometry**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![](https://zenodo.org/badge/DOI/10.5281/zenodo.1928853.svg)](https://doi.org/10.5281/zenodo.1928853) [DOI: 10.5281/zenodo.1928853](https://doi.org/10.5281/zenodo.1928853)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
@@ -135,7 +135,7 @@ If you use this script or build on this work, please cite:
   title   = {The Octonionic Origin of the Standard Model Parameters},
   author  = {Baker, Steve},
   year    = {2026},
-  doi     = {10.5281/zenodo.XXXXXXX},
+  doi     = {10.5281/zenodo.1928853},
   note    = {41 zero-parameter predictions from G₂ holonomy geometry}
 }
 ```
